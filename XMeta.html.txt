@@ -1,0 +1,13 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My NFT Collection</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="text-align:center; font-family:sans-serif; padding-top:50px;">
+  <h1>Открой мою NFT коллекцию</h1>
+  <a href="https://getgems.io/x-meta-mining" target="_blank" style="padding: 15px 30px; background: #0088cc; color: white; border-radius: 10px; text-decoration: none;">Перейти на GetGems</a>
+</body>
+</html>
